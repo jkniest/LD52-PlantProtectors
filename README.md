@@ -14,6 +14,7 @@ This game was made for the Ludum Dare 52 competition. See more here: https://ldj
 The full game was made by me in ~48 hours (+/- some).   
 All graphics / 3d models are made by me (excluding the background image in the main menu, which was made using Dall E 2).   
 Music was made with https://soundraw.io/
+
 ---
 ### Controls:   
 - Left mouse button to shoot
