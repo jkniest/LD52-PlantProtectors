@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.Audio;
 
 public class AudioManager : MonoBehaviour
@@ -18,6 +19,11 @@ public class AudioManager : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+    }
+
+    private void Start()
+    {
+        FadeToNormal();
     }
 
     public void ToggleMute()

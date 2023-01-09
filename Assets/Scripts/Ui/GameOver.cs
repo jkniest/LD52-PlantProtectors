@@ -7,7 +7,7 @@ namespace Ui
 {
     public class GameOver : MonoBehaviour
     {
-        private const int GamejoltTableID = 787559;
+        private const int GamejoltTableID = 787557;
 
         public TMP_InputField nameInput;
         public GameObject submitForm;

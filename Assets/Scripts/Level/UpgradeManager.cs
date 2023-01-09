@@ -94,6 +94,11 @@ namespace Level
 
         public void PushUpgrade(BaseUpgrade upgrade)
         {
+            if(_unlockedUpgrades.Contains(upgrade))
+            {
+                return;
+            }
+            
             _unlockedUpgrades.Add(upgrade);
         }
     }
