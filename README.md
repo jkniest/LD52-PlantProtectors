@@ -1,4 +1,4 @@
-﻿# Ludum Dare 49 Servers VS Hackers
+﻿# Ludum Dare 52 Plant Protectors
 
 ![Screenshot](Assets/Textures/leek.png "Logo")   
 ![Screenshot](Assets/Textures/lettuce.png "Logo")   
